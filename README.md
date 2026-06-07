@@ -56,7 +56,7 @@ The project was developed as part of Computer Organization and Assembly Language
 7. Priority Scheduling
 8. Memory Report
 9. System Statistics
-0. Exit
+ 0. Exit
 
 ---
 
